@@ -1,10 +1,9 @@
-
-### Opa, eu sou o Lucas Machado 😁
+### Opa, sou o Lucas Machado 😁
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas10/)
-[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.machadolucas/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.machadolucas/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmsdev&show_icons=true&theme=dark)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmsdev&show_icons=true&theme=dark)
 
 ### Tecnologias que tenho mais familiaridade
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,3 +13,5 @@
 ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Estou em busca de me desenvolver no mercado e de poder aprender cada vez mais
