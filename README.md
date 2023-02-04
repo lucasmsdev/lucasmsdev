@@ -7,7 +7,7 @@
 
 <div align="center">
     <a href="https://github.com/LucasGill">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmsdev&theme=dark"/>
+    <img height="10000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmsdev&theme=dark"/>
    </div>
 
 ### Tecnologias que tenho mais familiaridade
