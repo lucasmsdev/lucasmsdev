@@ -6,8 +6,7 @@
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmsdev&show_icons=true&theme=dark)
 
 <div align="center">
-    <a href="https://github.com/LucasGill">
-        ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmsdev&show_icons=true&theme=dark)
+    <a href="https://github.com/lucasmsdev">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmsdev&theme=dark"/>
    </div>
 
