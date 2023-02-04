@@ -5,6 +5,12 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmsdev&show_icons=true&theme=dark)
 
+<div align="center">
+    <a href="https://github.com/LucasGill">
+    <img height="180em" src="https://github-readme-status.vercel.app/api?username=lucasmsdev&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGill&theme=dark"/>
+   </div>
+
 ### Tecnologias que tenho mais familiaridade
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
