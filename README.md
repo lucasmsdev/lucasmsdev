@@ -2,13 +2,12 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas10/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.machadolucas/)
-
+    
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=lucasmsdev&show_icons=true&theme=dark">
-   <a href="https://github.com/lucasmsdev">
-   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmsdev&theme=dark"/>
-      </div>         
-
+    <a href="https://github.com/lucasmsdev">
+    <img height="180em" src="https://github-readme-status.vercel.app/api?username=lucasmsdev&show_icons=true&theme=midnight-blue&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmsdev&layout=compact&langs_count=16&theme=midnight-blue"/>
+   </div>
 
 ### Tecnologias que tenho mais familiaridade
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
