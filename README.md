@@ -5,7 +5,7 @@
     
 <div align="center">
     <a href="https://github.com/lucasmsdev">
-    <img height="180em" src="https://github-readme-status.vercel.app/api?username=lucasmsdev&show_icons=true&theme=darkinclude_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-status.vercel.app/api?username=lucasmsdev&show_icons=true&theme=dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmsdev&layout=compact&langs_count=16&theme=dark"/>
    </div>
 
