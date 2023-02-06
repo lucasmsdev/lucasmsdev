@@ -4,11 +4,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.machadolucas/)
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmsdev&show_icons=true&theme=dark)
-
-<div align="center">
-    <a href="https://github.com/lucasmsdev">
+   
+   <a href="https://github.com/lucasmsdev">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmsdev&theme=dark"/>
-   </div>
+
 
 ### Tecnologias que tenho mais familiaridade
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
