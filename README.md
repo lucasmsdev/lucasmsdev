@@ -4,7 +4,13 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas10/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.machadolucas/)
 
-https://github-readme-streak-stats.herokuapp.com/?user={lucasmsdev}&theme={tokyonight}
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="[https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly](https://github-readme-streak-stats.herokuapp.com/?user={lucasmsdev}&theme={tokyonight})" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=lucasmsdev&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
 
 ## My Skills:
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
