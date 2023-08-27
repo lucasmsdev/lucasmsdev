@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.machadolucas/)
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="[https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly](https://github-readme-streak-stats.herokuapp.com/?user={lucasmsdev}&theme={tokyonight})" />
+<img width=55% align="center"  src="[https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly](https://github-readme-streak-stats.herokuapp.com/?user=lucasmsdev&theme=tokyonight}" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=lucasmsdev&show_icons=true&theme=radical&layout=compact" />
  </div>
  
