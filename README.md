@@ -4,9 +4,9 @@
 &nbsp;
 &nbsp;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas10/)
-
- &nbsp;
- &nbsp;
+  - Instrutor de Formação Profissional
+&nbsp;
+&nbsp;
 
 ## Skills:
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
