@@ -1,5 +1,5 @@
-## Hi, I'am Lucas Machado 😁
-### Competitor WorldSkills Cloud Computing #53
+## Olá, sou o Lucas Machado 😁
+###  Vice Campeão São Paulo Skills #53 Computação em Nuvem
 
 &nbsp;
 &nbsp;
@@ -8,7 +8,7 @@
  &nbsp;
  &nbsp;
 
-## My Skills:
+## Skills:
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
