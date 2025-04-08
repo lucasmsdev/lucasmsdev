@@ -8,4 +8,4 @@
 &nbsp;
 &nbsp;
 
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,flask,gcp,linux,nodejs,redis" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,kubernetes,docker,redis,terraform,flask,nodejs" />
