@@ -1,6 +1,6 @@
 ## Fala ai! Prazer, Lucas Machado 😁
 ###  Vice Campeão São Paulo Skills #53 Computação em Nuvem
-### Quarto colocado do Brazil no Camponeato de IA Generativa da Amazon Web Services
+### Quarto colocado do Brasil no Camponeato de IA Generativa da Amazon Web Services
 
 &nbsp;
 &nbsp;
