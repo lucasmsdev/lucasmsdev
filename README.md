@@ -1,4 +1,4 @@
-## Olá, sou o Lucas Machado 😁
+## Fala ai! Prazer, Lucas Machado 😁
 ###  Vice Campeão São Paulo Skills #53 Computação em Nuvem
 
 &nbsp;
